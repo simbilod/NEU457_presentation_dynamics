@@ -2,12 +2,15 @@
 
 Requires numpy, scipy, matplotlib, and jupyter-matplotlib (if using Notebook or Lab).
 
+Easy if using conda :
+
 ```
 conda install numpy
 conda install scipy
 conda install matplotlib
+conda install seaborn
 ```
-From https://github.com/matplotlib/jupyter-matplotlib
+and from https://github.com/matplotlib/jupyter-matplotlib :
 ```
 conda install -c conda-forge ipympl
 
